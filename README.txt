@@ -4,7 +4,7 @@ AUTHOR:
 Dhruv Bhaskar
 
 LAST MODIFIED: 
-31th December 2013
+1st January 2014
 
 ABOUT:
 This is a simple Tic-Tac-Toe console game written in C.
@@ -16,6 +16,3 @@ the computer actively tries to prevent the user from winning.
 USAGE:
 -> Enter 'make' in command prompt.
 -> Enter './output easy' to play in the easy mode or enter './output advanced' to play in advanced mode. 
-
-LICENSE:
-GNU Public License V3
